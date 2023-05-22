@@ -111,10 +111,10 @@
 
 <p align="center">
 <a href="https://github.com/Mubashir-01-1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mubashir-01-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mubashir-01-1&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wajeeh-Haider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wajeeh-Haider&layout=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-01-1&show_icons=true&locale=en&layout=demo&theme=dark" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wajeeh-Haider&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
 </p>
 <br>
